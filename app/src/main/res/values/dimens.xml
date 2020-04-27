@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="one_dp">16dp</dimen>
+    <dimen name="tweo_dp">16dp</dimen>
+    <dimen name="four_dp">16dp</dimen>
+    <dimen name="eight_dp">16dp</dimen>
+    <dimen name="ten_dp">16dp</dimen>
+    <dimen name="twelve_dp">16dp</dimen>
+    <dimen name="twenty_four_dp">16dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="sixty_four_dp">64dp</dimen>
+
+
+<!--    text size in sp -->
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="twenty_four_sp">24sp</dimen>
+</resources>

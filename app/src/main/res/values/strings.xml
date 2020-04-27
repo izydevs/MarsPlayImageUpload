@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarsPlayImageUpload</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="upload_image_from">Upload Image from</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="image_not_found">Image not found!!</string>
+</resources>
